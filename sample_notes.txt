@@ -1,0 +1,5 @@
+Job 7741. Material 303 SS 3/4.
+Tools: T0101 CNMG, T0202 drill, T0303 cutoff.
+Set Z0 on face. Verify bar puller clearance.
+First piece inspect OD .750 +/- .001 and length 1.250 +.000/-.002.
+Watch chips at op2 and keep coolant on.
